@@ -1,0 +1,15 @@
+{
+  "title": "Dyvue Docs",
+  "url": "https://docs.dyvue.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "nuxt/content",
+  "twitter": "nuxt_js",
+  "defaultBranch": "main",
+  "algolia": {
+    "apiKey": "3677e049d48c83792ba0d2cb0715a12f",
+    "indexName": "nuxtjs_content"
+  }
+}
